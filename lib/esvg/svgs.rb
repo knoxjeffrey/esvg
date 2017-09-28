@@ -28,7 +28,7 @@ module Esvg
     CONFIG_RAILS = {
       source: "app/assets/svgs",
       assets: "app/assets/javascripts",
-      build: "public/javascripts",
+      build: "public/assets/javascripts",
       temp: "tmp"
     }
 
